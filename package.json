@@ -187,7 +187,7 @@
     "stylelint-use-logical": "^2.0.0",
     "superagent": "^8.0.0",
     "typescript": "^5.5.4",
-    "vite": "^5.4.12",
+    "vite": "^5.4.16",
     "vitest": "^2.1.9"
   },
   "husky": {
